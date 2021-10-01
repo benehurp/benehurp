@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou o Bene-Hur!
 
-⚙️ Front-End Developer - Esse é o meu trabalho. <br>
-🎓 Full-Stack Node.js - Praticando para ultrapassar os limites visuais. <br>
-🎖 Motion Designer - Foi onde descobri o JavaScript. <br>
-🎬 FilmMaker - Sim, as vezes escrevo roteiros e produzo vídeos. <br>
+⚙️ Front-End Developer: Esse é o meu trabalho. <br>
+🎓 Full-Stack Node.js: Praticando para ultrapassar os limites visuais. <br>
+🎖 Motion Designer: Foi onde descobri o JavaScript. <br>
+🎬 FilmMaker: Sim, as vezes escrevo roteiros e produzo vídeos. <br>
 
 ### Você pode me encontrar em
 🤠 [LinkedIn](https://www.linkedin.com/in/bene-hur-pessoa-1a8573210/) <br>
