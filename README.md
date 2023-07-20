@@ -4,7 +4,7 @@ A JavaScript developer with extensive experience in React.js and Node.js. I am s
 I have a vast knowledge and hands-on experience in systems with React.js (CRA, Vite, Next.js), React Native (Expo), Node.js (Express, Fastify), and e-commerce systems (Magento 2, Shopify, WooCommerce). However, I like to say that I am a problem solver, regardless of the stack. My commitment lies in satisfying the client.
 
 ## About me 👨‍💻
-- 📚 I’m currently learning more about Node.Js
+- 📚 MBA: Software Architect / Technical Degree: FullStack Node.js
 - 🔥 Technologies: React.js, Node.js, Next.js, TypeScript, Express, Fastify, Postgress, API Rest
 
 ## How to reach me 📫
