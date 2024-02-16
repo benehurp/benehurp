@@ -1,12 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bene-Hur
-I am a Front-End Engineer with extensive experience in fundamental technologies, including HTML, CSS and JavaScript.
+I am a Front-End developer with a strong expertise in Javascript and React (Next.js), specializing in crafting high-quality interfaces for web applications.
 
-My specialization lies in developing interfaces using React.js, preferably with Next.js. Furthermore, I have solid knowledge that allows me to create microservices both in Node.js with Express or Fastify, and in Java with Spring Boot, allowing me to act in a versatile way as a FullStack Developer.
+In addition to my Front-End specialization, I possess robust skills in integrating Front-End interfaces with Back-End services. My diverse knowledge in technologies such as Node.js with Express, Java with Spring Boot, and Python enables me to adapt and create effective solutions for a wide range of development needs.
 
-In my most recent position, I held the position of Technical Lead on a project focused on the commercial aviation sector, where I led a team of developers in developing highly responsive, event-driven interfaces in real time.
-
-My experience is not just limited to this sector; I have also accumulated significant knowledge and experience in logistics systems, financial systems and e-commerce systems throughout my career.
-
+I am committed to continuously enhancing my skills and pursuing new challenges that allow me to make significant contributions to the success of future projects.
 
 ## About me 👨‍💻
 - 📚 MBA: Software Architect / Technical Degree: FullStack Node.js
